@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "id": "Field_1",
+      "latitude_degrees": "REPLACE_WITH_FIELD_1_LATITUDE",
+      "weather_csv": "REPLACE_WITH_FIELD_1_WEATHER_CSV_PATH",
+      "dem_raster": "REPLACE_WITH_FIELD_1_DEM_RASTER_PATH",
+      "thermal_stability_raster": "REPLACE_WITH_FIELD_1_THERMAL_STABILITY_RASTER_PATH",
+      "openet_dir": "REPLACE_WITH_FIELD_1_OPENET_DIRECTORY_PATH",
+      "crop_by_year": {
+        "2016": "corn",
+        "2017": "soybean",
+        "2018": "corn",
+        "2019": "soybean",
+        "2021": "corn",
+        "2022": "soybean"
+      }
+    },
+    {
+      "id": "Field_2",
+      "latitude_degrees": "REPLACE_WITH_FIELD_2_LATITUDE",
+      "weather_csv": "REPLACE_WITH_FIELD_2_WEATHER_CSV_PATH",
+      "dem_raster": "REPLACE_WITH_FIELD_2_DEM_RASTER_PATH",
+      "thermal_stability_raster": "REPLACE_WITH_FIELD_2_THERMAL_STABILITY_RASTER_PATH",
+      "openet_dir": "REPLACE_WITH_FIELD_2_OPENET_DIRECTORY_PATH",
+      "crop_by_year": {
+        "2016": "corn",
+        "2017": "soybean",
+        "2018": "corn",
+        "2019": "soybean",
+        "2021": "corn",
+        "2022": "soybean"
+      }
+    },
+    {
+      "id": "Field_3",
+      "latitude_degrees": "REPLACE_WITH_FIELD_3_LATITUDE",
+      "weather_csv": "REPLACE_WITH_FIELD_3_WEATHER_CSV_PATH",
+      "dem_raster": "REPLACE_WITH_FIELD_3_DEM_RASTER_PATH",
+      "thermal_stability_raster": "REPLACE_WITH_FIELD_3_THERMAL_STABILITY_RASTER_PATH",
+      "openet_dir": "REPLACE_WITH_FIELD_3_OPENET_DIRECTORY_PATH",
+      "crop_by_year": {
+        "2016": "soybean",
+        "2017": "corn",
+        "2018": "soybean",
+        "2020": "corn",
+        "2021": "soybean",
+        "2022": "corn"
+      }
+    }
+  ]
+}
+

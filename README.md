@@ -15,6 +15,8 @@ yield-monitor rasters used in the study are proprietary and are not included.
 
 - `thermal_yield_stability_pipeline.py` — complete, self-contained analysis.
 - `requirements.txt` — Python package requirements.
+- `wsi/` — standalone, documented native-OpenET July-August WSI analysis;
+  see [the WSI README](wsi/README.md) for inputs, methods, and commands.
 - `.gitignore` — prevents local rasters and generated results from being
   committed accidentally.
 

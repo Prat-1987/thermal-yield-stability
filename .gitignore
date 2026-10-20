@@ -1,0 +1,11 @@
+# Local data and generated outputs are not part of the code release.
+.venv/
+__pycache__/
+.DS_Store
+inputs/
+outputs/
+*.tif
+*.tiff
+*.csv
+*.zip
+
